@@ -1,5 +1,6 @@
 // primitive 
 
+
 //  7 types : string, numbe, Boolean, undefined, Symbol, BigInt,
   
 /* javascript is Dynamically type */
